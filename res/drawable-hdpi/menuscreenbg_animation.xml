@@ -1,0 +1,11 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:drawable="@drawable/menuscreenbg1" android:duration="400" />
+	<item android:drawable="@drawable/menuscreenbg2" android:duration="400" />
+	<item android:drawable="@drawable/menuscreenbg3" android:duration="400" />
+	<item android:drawable="@drawable/menuscreenbg4" android:duration="400" />
+	<item android:drawable="@drawable/menuscreenbg5" android:duration="400" />
+	<item android:drawable="@drawable/menuscreenbg6" android:duration="400" />
+	<item android:drawable="@drawable/menuscreenbg7" android:duration="400" />
+	<item android:drawable="@drawable/menuscreenbg8" android:duration="400" />
+	<item android:drawable="@drawable/menuscreenbg9" android:duration="400" />
+</animation-list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MathAppActivity!</string>
+    <string name="app_name">MathApp</string>
+<color name="transparent_color">#00000000</color>
+    <style name="Themedialog" parent="android:Theme.Dialog">
+    <item
+        name="android:windowBackground">@color/transparent_color</item></style>
+</resources>

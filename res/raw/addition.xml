@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<math>
+	<questionslist>
+		<questions>
+			<question>
+				1 + 3 = _
+			</question>
+			<answer>
+				4
+			</answer>
+		</questions>
+		<questions>
+			<question>
+				6 + 3 = _
+			</question>
+			<answer>
+				9
+			</answer>
+		</questions>
+		<questions>
+			<question>
+				3 + 3 = _
+			</question>
+			<answer>
+				6
+			</answer>
+		</questions>
+		<questions>
+			<question>
+				5 + 2 = _
+			</question>
+			<answer>
+				7
+			</answer>
+		</questions>
+		<questions>
+			<question>
+				7 + 1 = _
+			</question>
+			<answer>
+				8
+			</answer>
+		</questions>
+		<questions>
+			<question>
+				9 + 0 = _
+			</question>
+			<answer>
+				9
+			</answer>
+		</questions>
+	</questionslist>
+</math>
