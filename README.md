@@ -3,4 +3,4 @@ MathApp
 
 Children Math Application
 
-Author=ibabur
+Author ibabur(i.babur@gmail.com)
